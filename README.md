@@ -56,3 +56,16 @@ So, if you need someone to make sure your software shines bright, I'm your gal. 
  <p align="center">LinkedIn - [Amrita Thakur(https://www.linkedin.com/in/amrita-thakur-81089b12)]
 <p align="center">Email - amrita.thakur123@gmail.com
 </p>
+
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=athakur012&show_icons=true&theme=gotham" alt="github stats" width="65%" />
+
+
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=athakur012&theme=dark" width="48%" >
+
+
+<div align="center">
+ <a target="_blank"href="https://github.com/Ileriayo/"> Credits to Gaurav Khuraana's Github Page for my profile design</a>
+  
+</div>
