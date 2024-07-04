@@ -35,19 +35,11 @@ So, if you need someone to make sure your software shines bright, I'm your gal. 
 <p align="center">Domains - Retail, Insurance, Transport, Airline
  </p>
 <hr>
- <h2 align="center"> 🚀 What I'm working on outside work</h2>
+ <h2 align="center"> 🚀 What I'm working on outside work and currently learning to keep me relevant</h2>
 <p align="center">Mastering Playwright: Exploring the powerful capabilities of Playwright for automating web applications.
 <p align="center">Advancing Test Management Skills: Leading and managing testing teams to ensure efficient testing strategies and successful project outcomes.
 <p align="center">Team Leadership: Providing guidance, mentorship, and support to team members to foster collaboration and achieve collective goals.
 <p align="center">Building Projects: Buildiong projects to showcase my work to a wider community. 
-</p>
-
-<hr>
- <h2 align="center"> 🌱 What I'm currently learning to keep me relevant</h2>
-<p align="center">Mastering Playwright: Exploring the powerful capabilities of Playwright for automating web applications.
-<p align="center">Advancing Test Management Skills: Leading and managing testing teams to ensure efficient testing strategies and successful project outcomes.
-<p align="center">Team Leadership: Providing guidance, mentorship, and support to team members to foster collaboration and achieve collective goals.
-<p align="center">AI Integration: Exploring the integration of artificial intelligence (AI) technologies into testing processes for improved efficiency and effectiveness.
 </p>
 
 
