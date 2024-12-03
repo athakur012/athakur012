@@ -29,7 +29,7 @@ So, if you need someone to make sure your software shines bright, I'm your gal. 
 <p align="center">Automation - Selenium, Playwright, Appium, Cucumber, Test Complete
 <p align="center">Database - MYSQL, DBeaver
 <p align="center">Devops - Docker, Kubernetes,  Jenkins
-<p align="center">Cloud - Azure
+<p align="center">Cloud - Azure, Salesforce(Marketing Cloud, Commerce Cloud, CRM)
 <p align="center">Code Management - Git, Github, Bitbucket
 <p align="center">IDE - IntelliJ IDEA, Visual Studio Code, Eclipse
 <p align="center">Domains - Retail, Insurance, Transport, Airline
@@ -39,7 +39,7 @@ So, if you need someone to make sure your software shines bright, I'm your gal. 
 <p align="center">Mastering Playwright: Exploring the powerful capabilities of Playwright for automating web applications.
 <p align="center">Advancing Test Management Skills: Leading and managing testing teams to ensure efficient testing strategies and successful project outcomes.
 <p align="center">Team Leadership: Providing guidance, mentorship, and support to team members to foster collaboration and achieve collective goals.
-<p align="center">Building Projects: Buildiong projects to showcase my work to a wider community. 
+<p align="center">Building Projects: Building projects to showcase my work to a wider community. 
 </p>
 
 
