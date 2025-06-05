@@ -24,7 +24,7 @@ So, if you need someone to make sure your software shines bright, I'm your gal. 
 </p>
 <p align="center"> AI Tools - ChatGPT
 <p align="center"> API - Postman,SoapUI
-<p align="center"> Programming Languages - Java,  Python, Javascript
+<p align="center"> Programming Languages - Java,  Python, Typescript
 <p align="center">Test and Project Management Tool - JIRA, Confluence, Miro, Whiteboard, Zephyr, TestRail
 <p align="center">Automation - Selenium, Playwright, Appium, Cucumber, Test Complete
 <p align="center">Database - MYSQL, DBeaver
